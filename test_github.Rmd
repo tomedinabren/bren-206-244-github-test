@@ -1,5 +1,6 @@
 ---
 title: "ESM 206/244 GitHub Testing"
+author: Taylor mEDINA
 output: html_document
 ---
 
@@ -13,11 +14,11 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+orange <- 18
 
-red <- 15
+pink <- 12
 
-purple <- blue/red
+black <- pink/orqange
 
 ```
 
